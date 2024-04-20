@@ -1,0 +1,8 @@
+../Core/Src/lcdx.c:155:13:write_4_bits	8	static
+../Core/Src/lcdx.c:12:6:lcd_send_command	8	static
+../Core/Src/lcdx.c:33:6:lcd_print_char	8	static
+../Core/Src/lcdx.c:47:6:lcd_print_string	8	static
+../Core/Src/lcdx.c:130:6:lcd_set_cursor	0	static
+../Core/Src/lcdx.c:147:6:lcd_display_return_home	0	static
+../Core/Src/lcdx.c:170:6:lcd_display_clear	0	static
+../Core/Src/lcdx.c:55:6:lcd_initx	8	static

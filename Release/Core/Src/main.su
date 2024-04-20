@@ -1,0 +1,9 @@
+../Core/Src/main.c:65:9:decToBcd	0	static
+../Core/Src/main.c:70:5:bcdToDec	0	static
+../Core/Src/main.c:88:6:Set_Time	40	static
+../Core/Src/main.c:101:6:Get_Time	32	static
+../Core/Src/main.c:113:7:Get_Temp	40	static
+../Core/Src/main.c:121:6:force_temp_conv	40	static
+../Core/Src/main.c:227:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:141:5:main	48	static,ignoring_inline_asm
+../Core/Src/main.c:376:6:Error_Handler	0	static,ignoring_inline_asm

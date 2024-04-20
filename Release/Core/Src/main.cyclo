@@ -1,0 +1,9 @@
+../Core/Src/main.c:65:9:decToBcd	1
+../Core/Src/main.c:70:5:bcdToDec	1
+../Core/Src/main.c:88:6:Set_Time	1
+../Core/Src/main.c:101:6:Get_Time	1
+../Core/Src/main.c:113:7:Get_Temp	1
+../Core/Src/main.c:121:6:force_temp_conv	2
+../Core/Src/main.c:227:6:SystemClock_Config	4
+../Core/Src/main.c:141:5:main	4
+../Core/Src/main.c:376:6:Error_Handler	1

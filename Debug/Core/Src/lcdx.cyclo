@@ -1,0 +1,11 @@
+../Core/Src/lcdx.c:12:6:lcd_send_command	1
+../Core/Src/lcdx.c:33:6:lcd_print_char	1
+../Core/Src/lcdx.c:47:6:lcd_print_string	2
+../Core/Src/lcdx.c:55:6:lcd_initx	1
+../Core/Src/lcdx.c:130:6:lcd_set_cursor	3
+../Core/Src/lcdx.c:147:6:lcd_display_return_home	1
+../Core/Src/lcdx.c:155:13:write_4_bits	1
+../Core/Src/lcdx.c:170:6:lcd_display_clear	1
+../Core/Src/lcdx.c:184:13:lcd_enable	1
+../Core/Src/lcdx.c:193:13:mdelay	2
+../Core/Src/lcdx.c:198:13:udelay	2
